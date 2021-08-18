@@ -14,6 +14,7 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * ទុនវិនិយោគមូលនិធិ : Seed Funding Organization : FB post of MPTC
 * ធនាគារវិនិយោគ : Investment Banks
 * និម្មាបនិក : Architect 
+* និវេទនកថា : Acknowledgement
 * បញ្ញើប្រៃសណីយ៍អនុសិដ្ឋ : Registered Mail : Post office of MPTC
 * បោរីភាព : Courtesy
 * ពិពិធកម្ម : Diversification :
