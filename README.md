@@ -27,6 +27,8 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * ឧស្សាហកម្មនិស្សារណកម្ម : Extractive Industry
 * ឧត្តមានុវត្តន៍ : Best practices
 
+---end of list---
+
 
 
 
