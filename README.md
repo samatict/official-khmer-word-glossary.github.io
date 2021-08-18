@@ -16,6 +16,7 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * និម្មាបនិក : Architect 
 * បញ្ញើប្រៃសណីយ៍អនុសិដ្ឋ : Registered Mail : Post office of MPTC
 * បោរីភាព : Courtesy
+* ពិពិធកម្ម : Diversification :
 * ភតិបតី :
 * មូលធនភាគហ៊ុនិក : Shareholder’s Equity
 * មូលធនឯកជន : Private Equity : FB post of MPTC
