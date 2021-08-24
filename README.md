@@ -9,6 +9,8 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 ---
 
 * ក្រុមហ៊ុនវិនិយោគទុន : Venture Capital : FB post of MPTC
+* គុណផល : Performance : : បទបង្ហាញកម្មវិធីបណ្តុះបណ្តាលមន្រ្តីថ្មី សាលាភូមិន្ទរដ្ឋបាល
+* ឆន្ទៈម្ចាស់ការ : motivation : : បទបង្ហាញកម្មវិធីបណ្តុះបណ្តាលមន្រ្តីថ្មី សាលាភូមិន្ទរដ្ឋបាល
 * ទិដ្ឋាការមិនបង់ប្រាក់ : Gratis Visa
 * ទេវវិនិយោគិន :Angel Investor : FB post of MPTC
 * ទុនវិនិយោគមូលនិធិ : Seed Funding Organization : FB post of MPTC
@@ -23,6 +25,7 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * មូលធនភាគហ៊ុនិក : Shareholder’s Equity
 * មូលធនឯកជន : Private Equity : FB post of MPTC
 * វិស័យកម្មន្តសាល : Manufacturing sector
+* សនិទានកម្ម : Rationalisation : :
 * អន្តរវត្ថុ : items : Post office of MPTC
 * អាទិភាវូបនីយកម្ម
 * ឧស្សាហកម្មនិស្សារណកម្ម : Extractive Industry
