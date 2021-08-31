@@ -22,6 +22,7 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * បញ្ញើប្រៃសណីយ៍អនុសិដ្ឋ : Registered Mail : Post office of MPTC
 * បរិវត្តឌីជីឌល : Digital Transformation : : Press Release of UNDP Cambodia
 * បោរីភាព : Courtesy
+* ប្រតិវេទន៍ប្រចាំឆ្នាំ : Annual Declaration : :
 * ពិពិធកម្ម : Diversification :
 * ភតិបតី :
 * មូលធនភាគហ៊ុនិក : Shareholder’s Equity
@@ -29,7 +30,7 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * វិស័យកម្មន្តសាល : Manufacturing sector
 * សនិទានកម្ម : Rationalisation : :
 * អន្តរវត្ថុ : items : Post office of MPTC
-* អាទិភាវូបនីយកម្ម
+* អាទិភាវូបនីយកម្ម : Prioritization : : 
 * ឧស្សាហកម្មនិស្សារណកម្ម : Extractive Industry
 * ឧត្តមានុវត្តន៍ : Best practices
 
