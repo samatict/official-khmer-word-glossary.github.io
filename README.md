@@ -17,8 +17,10 @@ A repo for sharing/collaborating a collection of Khmer words/glossary used in of
 * ធនាគារវិនិយោគ : Investment Banks
 * និម្មាបនិក : Architect 
 * និវេទនកថា : Acknowledgement
+* បច្ចេកវិទ្យាគមនាគមន៍ និងព័ត៌មាន : Information and Communications Technology : : name of a general department under MPTC
 * បច្ចុប្បន្នកម្ម : updating : : 
 * បញ្ញើប្រៃសណីយ៍អនុសិដ្ឋ : Registered Mail : Post office of MPTC
+* បរិវត្តឌីជីឌល : Digital Transformation : : Press Release of UNDP Cambodia
 * បោរីភាព : Courtesy
 * ពិពិធកម្ម : Diversification :
 * ភតិបតី :
